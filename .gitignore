@@ -8,5 +8,10 @@ dist/
 *.txt
 *.zip
 *.exe
-
 ffmpeg
+archive/
+cookies.txt
+vidra_config.json
+dwn_history.json
+build/
+*.spec

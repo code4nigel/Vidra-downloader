@@ -6,7 +6,7 @@ from PyInstaller.utils.hooks import collect_submodules
 block_cipher = None
 
 a = Analysis(
-    ['Vidra_downloader.py'],
+    ['vidra_main.py'],
     pathex=['.'],
     binaries=[],
     datas=[
